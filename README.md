@@ -1,2 +1,2 @@
 # in-betweenness
-Thesis project website
+A documentation of thesis project
